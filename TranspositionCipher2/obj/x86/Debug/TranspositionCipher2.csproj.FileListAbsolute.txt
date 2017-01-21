@@ -1,0 +1,17 @@
+c:\users\mariusz\documents\visual studio 2010\Projects\TranspositionCipher2\TranspositionCipher2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mariusz\documents\visual studio 2010\Projects\TranspositionCipher2\TranspositionCipher2\bin\Debug\TranspositionCipher2.exe
+c:\users\mariusz\documents\visual studio 2010\Projects\TranspositionCipher2\TranspositionCipher2\bin\Debug\TranspositionCipher2.pdb
+c:\users\mariusz\documents\visual studio 2010\Projects\TranspositionCipher2\TranspositionCipher2\obj\x86\Debug\TranspositionCipher2.exe
+c:\users\mariusz\documents\visual studio 2010\Projects\TranspositionCipher2\TranspositionCipher2\obj\x86\Debug\TranspositionCipher2.pdb
+C:\Users\mariusz\Desktop\Szyfrowanie\TranspositionCipher2\TranspositionCipher2\obj\x86\Debug\TranspositionCipher2.exe
+C:\Users\mariusz\Desktop\Szyfrowanie\TranspositionCipher2\TranspositionCipher2\obj\x86\Debug\TranspositionCipher2.pdb
+C:\Users\mariusz\Desktop\Szyfrowanie\TranspositionCipher2\TranspositionCipher2\bin\Debug\TranspositionCipher2.exe
+C:\Users\mariusz\Desktop\Szyfrowanie\TranspositionCipher2\TranspositionCipher2\bin\Debug\TranspositionCipher2.pdb
+C:\Users\mariusz\Desktop\Szyfrowanie\TranspositionCipher2\TranspositionCipher2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd_1\TranspositionCipher2\TranspositionCipher2\obj\x86\Debug\TranspositionCipher2.exe
+F:\POLITECHNIKA\Semestr VI\Bezpieczeństwo Sieci Komputerowch\Projects\Zjazd_1\TranspositionCipher2\TranspositionCipher2\obj\x86\Debug\TranspositionCipher2.pdb
+D:\Projects\Zjazd_1\TranspositionCipher2\TranspositionCipher2\bin\Debug\TranspositionCipher2.exe
+D:\Projects\Zjazd_1\TranspositionCipher2\TranspositionCipher2\bin\Debug\TranspositionCipher2.pdb
+D:\Projects\Zjazd_1\TranspositionCipher2\TranspositionCipher2\obj\x86\Debug\TranspositionCipher2.csprojResolveAssemblyReference.cache
+D:\Projects\Zjazd_1\TranspositionCipher2\TranspositionCipher2\obj\x86\Debug\TranspositionCipher2.exe
+D:\Projects\Zjazd_1\TranspositionCipher2\TranspositionCipher2\obj\x86\Debug\TranspositionCipher2.pdb
